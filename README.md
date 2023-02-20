@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">And i love coding</h3>
+<h3 align="center">And I love coding</h3>
 
 - 🌱 I’m presently learning **TypeScript,Gatsby,SASS**
 -  🔭 I’m currently  working on shop website and relationship balance checker
