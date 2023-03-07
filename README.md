@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
+<h1 align="center">Greetings , I'm Andrey</h1>
 <h3 align="center">And I love coding</h3>
 
-- 🌱 I’m presently learning **React, Node JS**
+- 🌱 I’m presently learning **React**
 -  🔭 I’m currently  working on shop website and relationship balance checker
 -  ⚡ Etern Frontend Developer| Future Main tech - React
 
