@@ -10,4 +10,6 @@
 
 </td><td valign="top" width="33%">
 
+[![Profile badge](https://www.codewars.com/users/risunyaaa/badges/large)](https://www.codewars.com/users/risunyaaa)
+
 <br/>  
