@@ -1,7 +1,7 @@
 <h1 align="center">Greetings , I'm Andrey</h1>
 <h3 align="center">And I will always tell you about my journey on this page</h3>
 
-- 🌱 I'm presently learning **React**, and trying to improve my JS knowledge. My goal is to get 5 kyu in April!
+- 🌱 I'm presently learning **React**, and trying to improve my JS knowledge. My goal is to get 5 kyu in October!
 -  🔭 I'm currently  trying to create an easy web app, where you can play the little easy game (started 28.03)
 -  ⚡ I really want to make Frontend career, and will share my progress here, on this wall 
 
