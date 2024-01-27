@@ -7,8 +7,9 @@ My focus in recent years has been on building scalable data solutions using Know
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<details>
+ <summary>My Tech Stack</summary>
+ <table><tr><td valign="top" width="33%">
 
 
 
@@ -48,6 +49,7 @@ My focus in recent years has been on building scalable data solutions using Know
 </td></tr></table>  
 
 <br/>  
+</details>
 
 [![Profile badge](https://www.codewars.com/users/risunyaaa/badges/large)](https://www.codewars.com/users/risunyaaa)
 
