@@ -2,7 +2,7 @@
 
 I'm Andrey, **frontend developer** from Saint-Petersburg (ru). I'm passionate about exploring novel ideas and building innovative digital solutions for challenging problems. I enjoy being involved in the entire product creation process, from initial concept to release.
 
-My focus in recent years has been on building scalable data solutions using Knowledge Graphs, and Natural Language Processing technologies. I have listed some of my professional and personal projects on my <a href="[www.aleshkindev.ru](https://www.aleshkindev.ru/)"> **website** </a> (in progress).
+My focus in recent years has been on building scalable data solutions using Knowledge Graphs, and Natural Language Processing technologies. I have listed some of my professional and personal projects on my <a href="https://www.aleshkindev.ru/"> **website** </a> (in progress).
 
 <br/>  
 
