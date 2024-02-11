@@ -55,6 +55,8 @@ My focus in recent years has been on building scalable data solutions using Know
 
 [![Profile badge](https://www.codewars.com/users/risunyaaa/badges/large)](https://www.codewars.com/users/risunyaaa)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/risunyaaa?ext=heatmap)
+
 <br/> 
 
 
