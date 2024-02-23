@@ -3,9 +3,9 @@
 I'm Andrey, **frontend developer** from Saint-Petersburg (ru). I enjoy being involved in the entire product creation process, from initial concept to release. I'm currently not working anywhere, so I'm programming on my own schedule. **I usually push to GitHub once a day.**
 
 My focus in recent years has been on building scalable data solutions using **Knowledge Graphs**, and **Natural Language Processing** technologies. I have listed some of my professional and personal projects on my <a href="https://www.aleshkindev.ru/"> **website** </a> (in refactoring progress).
-
 <br/>  
 
+[![wakatime](https://wakatime.com/badge/user/018d5128-ce0e-435a-ba51-393084fd570c.svg)](https://wakatime.com/@018d5128-ce0e-435a-ba51-393084fd570c)
 
 <details>
  <summary>My Tech Stack</summary>
