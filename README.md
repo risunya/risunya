@@ -1,4 +1,4 @@
-**Hi there 👋**
+**Hi there 👋** 
 
 I'm Andrey, **frontend developer** from Saint-Petersburg (ru). I enjoy being involved in the entire product creation process, from initial concept to release. I'm currently not working anywhere, so I'm programming on my own schedule. **I usually push to GitHub once a day.**
 
@@ -6,6 +6,9 @@ My focus in recent years has been on building scalable data solutions using **Kn
 <br/>  
 
 [![wakatime](https://wakatime.com/badge/user/018d5128-ce0e-435a-ba51-393084fd570c.svg)](https://wakatime.com/@018d5128-ce0e-435a-ba51-393084fd570c)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=risunyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="risunyaaa" /> </p>
+
 
 <details>
  <summary>My Tech Stack</summary>
@@ -60,9 +63,9 @@ My focus in recent years has been on building scalable data solutions using **Kn
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=risunyaaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risunyaaa&show_icons=true&locale=en&layout=compact" alt="risunyaaa" /></p>
 
-<br/>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risunyaaa&show_icons=true&locale=en" alt="risunyaaa" /></p>
+ 
 
-
-<br/>  
