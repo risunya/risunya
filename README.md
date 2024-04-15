@@ -1,71 +1,75 @@
-**Hi there 👋** 
+<h1 align="left">Hey 👋</h1>
 
-I'm Andrey, **frontend developer** from Saint-Petersburg (ru). I enjoy being involved in the entire product creation process, from initial concept to release. I'm currently not working anywhere, so I'm programming on my own schedule. **I usually push to GitHub once a day.**
+###
 
-My focus in recent years has been on building scalable data solutions using **Knowledge Graphs**, and **Natural Language Processing** technologies. I have listed some of my professional and personal projects on my <a href="https://www.aleshkindev.ru/"> **website** </a> (in refactoring progress).
-<br/>  
+<h4 align="left">Frontend developer with 1+ year of experience in React</h4>
 
 [![wakatime](https://wakatime.com/badge/user/018d5128-ce0e-435a-ba51-393084fd570c.svg)](https://wakatime.com/@018d5128-ce0e-435a-ba51-393084fd570c)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risunyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="risunyaaa" /> </p>
+###
 
+<h2 align="left">📂 Current projects</h2>
 
-<details>
- <summary>My Tech Stack</summary>
- <table><tr><td valign="top" width="33%">
+###
 
+<ul align="left">
+  <li><a href="https://github.com/risunyaaa/quiz_webpage" target="_blank">quiz_webpage</a> - платформа для проведения квизов по программированию с личным кабинетом для пользователей и административной панелью для создания и управления квизами. Платформа также предоставляет возможность отслеживания прогресса пользователей в прохождении квизов.</li>
+  <li><a href="https://github.com/risunyaaa/page_w_search_engine" target="_blank">page_w_search_engine</a> - это проект, направленный на создание поисковой системы для конспектов лекций и ответов на тесты. Он предоставляет студентам удобный способ поиска необходимых материалов для их учебы</li>
+  <li><a href="https://github.com/risunyaaa/vacansy_hunter_bot" target="_blank">vacansy_hunter_bot</a> - этот проект представляет собой бота для мессенджера Telegram, который выполняет запросы для получения актиуальных вакансий.</li>
+  <li><a href="https://github.com/risunyaaa/notes" target="_blank">notes</a> - это удобный и простой в использовании ежедневник, разработанный с использованием React.</li>
+</ul>
 
+###
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<h2 align="left">🛠️ Tech and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<h2 align="left">💪 My stats</h2>
 
+###
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=risunyaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=risunyaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-</details>
 
 <details>
   <summary>Leetcode and codewars</summary>
+
 
   [![Profile badge](https://www.codewars.com/users/risunyaaa/badges/large)](https://www.codewars.com/users/risunyaaa)
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/risunyaaa?ext=heatmap)
 </details>
-
-
-<br/> 
-
-
-## Github Stats  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risunyaaa&show_icons=true&locale=en&layout=compact" alt="risunyaaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risunyaaa&show_icons=true&locale=en" alt="risunyaaa" /></p>
- 
-
