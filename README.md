@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Frontend developer with 1+ year of experience in React</h4>
+<h4 align="left">I'm frontend developer with near a year of experience in web-developing</h4>
 
 [![wakatime](https://wakatime.com/badge/user/018d5128-ce0e-435a-ba51-393084fd570c.svg)](https://wakatime.com/@018d5128-ce0e-435a-ba51-393084fd570c)
 
@@ -13,10 +13,10 @@
 ###
 
 <ul align="left">
-  <li>⏸️ <a href="https://github.com/risunyaaa/quiz_webpage" target="_blank">quiz_webpage</a> - платформа для проведения квизов по программированию с личным кабинетом для пользователей и административной панелью для создания и управления квизами. Платформа также предоставляет возможность отслеживания прогресса пользователей в прохождении квизов.</li>
-  <li>🚧 <a href="https://github.com/risunyaaa/page_w_search_engine" target="_blank">page_w_search_engine</a> - это проект, направленный на создание поисковой системы для конспектов лекций и ответов на тесты. Он предоставляет студентам удобный способ поиска необходимых материалов для их учебы</li>
-  <li>✔️ <a href="https://github.com/risunyaaa/vacansy_hunter_bot" target="_blank">vacansy_hunter_bot</a> - этот проект представляет собой бота для мессенджера Telegram, который выполняет запросы для получения актиуальных вакансий.</li>
-  <li>🚧 <a href="https://github.com/risunyaaa/notes" target="_blank">notes</a> - это удобный и простой в использовании ежедневник, разработанный с использованием React.</li>
+  <li>🚧 <a href="https://github.com/risunyaaa/quiz_webpage" target="_blank">JquiS</a> - платформа для проведения квизов по программированию с личным кабинетом для пользователей и административной панелью для создания и управления квизами. Платформа также предоставляет возможность отслеживания прогресса пользователей в прохождении квизов.</li>
+  <li>🚧 <a href="https://github.com/risunyaaa/page_w_search_engine" target="_blank">Sherlock</a> - это проект, направленный на создание поисковой системы для конспектов лекций и ответов на тесты. Он предоставляет студентам удобный способ поиска необходимых материалов для их учебы</li>
+  <li>✔️ <a href="https://github.com/risunyaaa/vacansy_hunter_bot" target="_blank">Vacancy Hunter</a> - этот проект представляет собой бота для мессенджера Telegram, который выполняет запросы для получения актиуальных вакансий.</li>
+  <li>🚧 <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> - это удобный и простой в использовании ежедневник, разработанный с использованием React.</li>
 </ul>
 
 ###
@@ -32,27 +32,32 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="jest logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="jest logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
+  <img width="12" />
 </div>
 
 ###
