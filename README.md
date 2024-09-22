@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm frontend developer with near a year of experience in web-developing</h4>
+<h4 align="left">I'm frontend developer from Saint Petersburg</h4>
 
 [![wakatime](https://wakatime.com/badge/user/018d5128-ce0e-435a-ba51-393084fd570c.svg)](https://wakatime.com/@018d5128-ce0e-435a-ba51-393084fd570c)
 
@@ -12,11 +12,11 @@
 
 ###
 
-<ul align="left">
-  <li>🚧 <a href="https://github.com/risunyaaa/quiz_webpage" target="_blank">JquiS</a> - платформа для проведения квизов по программированию с личным кабинетом для пользователей и административной панелью для создания и управления квизами. Платформа также предоставляет возможность отслеживания прогресса пользователей в прохождении квизов.</li>
-  <li>🚧 <a href="https://github.com/risunyaaa/page_w_search_engine" target="_blank">Sherlock</a> - это проект, направленный на создание поисковой системы для конспектов лекций и ответов на тесты. Он предоставляет студентам удобный способ поиска необходимых материалов для их учебы</li>
-  <li>✔️ <a href="https://github.com/risunyaaa/vacansy_hunter_bot" target="_blank">Vacancy Hunter</a> - этот проект представляет собой бота для мессенджера Telegram, который выполняет запросы для получения актиуальных вакансий.</li>
-  <li>🚧 <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> - это удобный и простой в использовании ежедневник, разработанный с использованием React.</li>
+<ul align="left"> 
+  <li>:white_check_mark: <a href="https://github.com/risunyaaa/vacansy_hunter_bot" target="_blank">Vacancy Hunter</a> — проект представляет собой бота для мессенджера Telegram, который выполняет запросы для получения актуальных вакансий.
+  </li> <li>:package: <a href="https://github.com/react-yummy" target="_blank">React-Yummy</a> — самописная open-source библиотека React-компонентов, а также полезных утилит для быстрой кастомизации любого проекта.</li> 
+  <li>:fire: <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> — удобный и простой в использовании ежедневник, разработанный с использованием React.</li> 
+  <li>:construction: <a href="https://github.com/risunyaaa/page_w_search_engine" target="_blank">Sherlock</a> — проект, в котором я пытаюсь достичь широчайшего функционала с использованием Angular. Пока проект находится на стадии разметки архитектуры.</li> 
 </ul>
 
 ###
@@ -44,6 +44,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="jest logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" alt="vitest logo"/>
+  <img width="12" />
+</div>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
