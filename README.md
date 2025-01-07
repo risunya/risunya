@@ -13,10 +13,9 @@
 ###
 
 <ul align="left"> 
-  <li>:white_check_mark: <a href="https://github.com/risunyaaa/vacansy_hunter_bot" target="_blank">Vacancy Hunter</a> — проект представляет собой бота для мессенджера Telegram, который выполняет запросы для получения актуальных вакансий.
-  </li> <li>:package: <a href="https://github.com/react-yummy" target="_blank">React-Yummy</a> — самописная open-source библиотека React-компонентов, а также полезных утилит для быстрой кастомизации любого проекта.</li> 
-  <li>:fire: <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> — удобный и простой в использовании ежедневник, разработанный с использованием React.</li> 
-  <li>:construction: <a href="https://github.com/risunyaaa/page_w_search_engine" target="_blank">Sherlock</a> — проект, в котором я пытаюсь достичь широчайшего функционала с использованием Angular. Пока проект находится на стадии разметки архитектуры.</li> 
+  </li> <li>:fire: <a href="https://t.me/sportsmarketbot?start=start" target="_blank">Sports Market</a> - a bundle of a bot server + web app for Telegram, the development of which took about 2 months. The project is active and generates about $ 5,000 revenue / month. LTS and is in active development.</li>
+  <li>:fire: <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> - a convenient and easy-to-use diary, developed using React. Is in active development.</li> 
+  </li> <li>:package: <a href="https://github.com/react-yummy" target="_blank">React-Yummy</a> - a self-written open-source library of React components, as well as useful utilities for quick customization of any project.</li> 
 </ul>
 
 ###
@@ -36,8 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo"  />
@@ -51,9 +48,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
@@ -63,6 +62,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40"/>
+<img width="12" />
 </div>
 
 ###
@@ -72,8 +73,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=risunya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=risunya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-two-beta-55.vercel.app/api?username=risunya&show_icons=true&theme=gruvbox&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-two-beta-55.vercel.app/api/top-langs?username=risunya&show_icons=true&theme=gruvbox&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -83,7 +84,7 @@
   <summary>Leetcode and codewars</summary>
 
 
-  [![Profile badge](https://www.codewars.com/users/risunyaaa/badges/large)](https://www.codewars.com/users/risunyaaa)
+  [![Profile badge](https://www.codewars.com/users/risunya/badges/large)](https://www.codewars.com/users/risunya)
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/risunyaaa?ext=heatmap)
 </details>
