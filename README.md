@@ -74,7 +74,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats-two-beta-55.vercel.app/api?username=risunya&show_icons=true&theme=gruvbox&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-two-beta-55.vercel.app/api/top-langs?username=risunya&show_icons=true&theme=gruvbox&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-two-beta-55.vercel.app/api/top-langs?username=risunya&theme=gruvbox&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
