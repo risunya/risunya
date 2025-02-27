@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm frontend developer from Saint Petersburg</h4>
+<h4 align="left">I'm developer from Saint Petersburg</h4>
 
 [![wakatime](https://wakatime.com/badge/user/018d5128-ce0e-435a-ba51-393084fd570c.svg)](https://wakatime.com/@018d5128-ce0e-435a-ba51-393084fd570c)
 
