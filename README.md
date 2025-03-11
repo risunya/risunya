@@ -8,14 +8,15 @@
 
 ###
 
-<h2 align="left">📂 Current projects</h2>
+<h2 align="left">📂 My GitHub projects</h2>
 
 ###
 
 <ul align="left"> 
-  </li> <li>:fire: <a href="https://t.me/sportsmarketbot?start=start" target="_blank">Sports Market</a> - a bundle of a bot server + web app for Telegram, the development of which took about 2 months. The project is active and generates about $ 5,000 revenue / month. LTS and is in active development.</li>
-  <li>:fire: <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> - a convenient and easy-to-use diary, developed using React. Is in active development.</li> 
-  </li> <li>:package: <a href="https://github.com/react-yummy" target="_blank">React-Yummy</a> - a self-written open-source library of React components, as well as useful utilities for quick customization of any project.</li> 
+  <li>🆙 <a href="https://github.com/risunya/node-grabber" target="_blank">Node-Grabber</a> - A telegram bot that allows you to forward content from any Telegram channel to your channels.</li> 
+  <li>🆙 <a href="https://t.me/sportsmarketbot?start=start" target="_blank">Sports Market</a> - a bundle of a bot server + web app for Telegram, the development of which took about 2 months. The project is active and generates about $ 5,000 revenue / month. LTS and is in active development.</li>
+  <li>⏸️ <a href="https://github.com/risunyaaa/notes" target="_blank">Notes</a> - a convenient and easy-to-use diary, developed using React. Is in active development.</li> 
+  </li> <li>⏸️ <a href="https://github.com/react-yummy" target="_blank">React-Yummy</a> - a self-written open-source library of React components, as well as useful utilities for quick customization of any project.</li> 
 </ul>
 
 ###
