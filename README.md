@@ -15,7 +15,7 @@
 <div>
   <ul>
     <li>🪛 TypeScript / React / Node / Python</li>
-    <li>🧰 Ubuntu / VSCode / neovim / ZenBrowser</li>
+    <li>🧰 Ubuntu / VSCode / neovim </li>
     <li>📡 Contact me in <a href="https://t.me/risunya">telegram</a></li>
     <li>🦋 Creating telegram bots and beautiful webpages</li>
     <li>🏝️ Find my blog <a href="https://t.me/risunyalore">here</a></li>
